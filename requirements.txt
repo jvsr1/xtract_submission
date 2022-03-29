@@ -1,0 +1,3 @@
+funcx_endpoint
+funcx
+xtract_sdk==0.0.7a11
