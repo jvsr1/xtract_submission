@@ -1,5 +1,3 @@
-#TODO: 2) add a folder with 3 or 4 test files
-
 """
 Create your own extractor subcomponents, following the model below.
 """
